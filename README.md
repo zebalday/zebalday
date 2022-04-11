@@ -6,9 +6,11 @@
 - 🌱 I’m currently learning python-Django; C#; Java; HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 
-- ************************
-- 📫 How to reach me:   *
-- ************************
+- **********************************
+- 📫 How to reach me:   
+- Instagram: @zebalday_
+- E-mail: sebaalday28@gmail.com
+- **********************************
 - 
 
 <!---
