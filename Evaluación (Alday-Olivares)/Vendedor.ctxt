@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Vendedor
+comment1.params=V
+comment1.target=void\ setVentas(int)
+comment2.params=C
+comment2.target=void\ setComision(int)
+comment3.params=
+comment3.target=int\ getVentas()
+comment4.params=
+comment4.target=double\ getComision()
+comment5.params=
+comment5.target=Vendedor()
+comment6.params=R\ N\ P\ M\ D\ T\ C\ S\ V\ Com
+comment6.target=Vendedor(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=valor
+comment8.target=void\ venta(int)
+comment9.params=
+comment9.target=double\ calcularSueldo()
+numComments=10
