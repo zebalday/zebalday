@@ -1,9 +1,8 @@
 - ---------------------------------------------------------------------
 - 👋 Hi, I’m @zebalday, 23YO programming student from Chile.
 - ---------------------------------------------------------------------
-- 👀 I’m interested in software engenieering, backend programming and
-- WEB programming.
-- 🌱 I’m currently learning python-Django; C#; Java; HTML and CSS.
+- 👀 I’m interested in software engenieering, backend programming and WEB programming.
+- 🌱 I’m currently learning python-Django; C#; Java; HTML + CSS + Php.
 - 💞️ I’m looking to collaborate on ...
 
 - **********************************
