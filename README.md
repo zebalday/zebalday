@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sebastián-alday-núñez-9a669a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián alday núñez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zebalday_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zebalday" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20152701/zebalday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zebalday" height="30" width="40" /></a>
 <a href="https://instagram.com/zebalday_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zebalday_" height="30" width="40" /></a>
 </p>
 
