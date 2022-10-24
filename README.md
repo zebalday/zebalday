@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">An enthusiastic 2nd year computer engineering student from Chile.</h3>
 
-- 🌱 I’m currently learning **Django and DataScience**
+- 🌱 I’m currently learning **Django, DataScience and Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zebalday](https://github.com/zebalday)
 
