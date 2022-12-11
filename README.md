@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">An enthusiastic 2nd year computer engineering student from Chile.</h3>
+<h3 align="center">An enthusiastic 3rd year computer engineering student from Chile.</h3>
 
 - 🌱 I’m currently learning **Django, DataScience and Mobile Development**
 
