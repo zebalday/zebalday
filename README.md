@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">An enthusiastic 4th year computer engineering student from Chile.</h3>
+- Broad knowledge on networks, software and web development, and data managment.
 
 - 🌱 I’m currently learning **Django, DataScience and Mobile Development**
 
