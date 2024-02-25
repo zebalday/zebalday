@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">An enthusiastic 4th year computer engineering student from Chile.</h3>
 
-- 🧠 Broad knowledge on networks, software and web development, and data management
+- 🧠 Broad knowledge on networks, software and web development, and data management.
 
-- 🌱 I’m currently learning **Django, DataScience and Mobile Development**
+- 👨🏻‍💻 My main interests are **Django Framework, Django REST Framework,and Data Science with Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zebalday](https://github.com/zebalday)
+- 👾 I'm always learning *GIT & GitHub* so I can **reset --hard** on project errors.
 
-- 📫 How to reach me **sebaalday28@gmail.com**
+- 💼 All of my projects are available at [my profile](https://github.com/zebalday)
+
+- 📩 Mail me at  **sebaalday28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
