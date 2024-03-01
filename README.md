@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"><ahref="https://linkedin.com/in/sebastián-alday-núñez-9a669a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián alday núñez" height="30" width="40" /></a><a href="https://instagram.com/zebalday_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zebalday_" height="30" width="40" /></a><a href="https://kaggle.com/zebalday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zebalday" height="30" width="40" /></a>
-</p>
+<p align="left"><ahref="https://linkedin.com/in/sebastián-alday-núñez-9a669a229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián alday núñez" height="30" width="40" /><a href="https://kaggle.com/zebalday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zebalday" height="30" width="40" /></a><a href="https://discordapp.com/users/526125802744709161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zebalday" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
