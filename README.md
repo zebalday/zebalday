@@ -3,7 +3,7 @@
 
 - 🧠 Broad knowledge on networks, software and web development, and data management.
 
-- 👨🏻‍💻 My main interests are **Django Framework, Django REST Framework,and Data Science with Python.**
+- 👨🏻‍💻 My main interests are **Django Framework, Django REST Framework, and Data Science with Python.**
 
 - 👾 I'm always learning *GIT & GitHub* so I can **reset --hard** on project errors.
 
